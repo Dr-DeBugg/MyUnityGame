@@ -31,3 +31,11 @@ http://www.freesound.org/people/folkart%20films/sounds/122767/
 http://www.freesound.org/people/Greencouch/sounds/103563/
 
 https://creativecommons.org/licenses/by-nc/3.0/
+
+
+"fire 2" sound is owned by SOUND FISHING
+
+allowed use for :
+- computer and video games
+
+https://www.soundfishing.eu
