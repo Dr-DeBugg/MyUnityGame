@@ -1,5 +1,5 @@
 # MyUnityGame
-A game I produced with Unity game engine
+A game I produced with Unity game engine: Upload cancelled due to 100MB file size limit - the game contains a 500MB file.
 
 ## Screenshot:
 ![alt text](https://github.com/Dr-DeBugg/MyUnityGame/blob/master/unity_game_screenshot.png "Screenshot 1")
