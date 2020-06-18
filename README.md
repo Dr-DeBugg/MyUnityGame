@@ -1,6 +1,9 @@
 # MyUnityGame
 A game I produced with Unity game engine
 
+## Screenshot:
+![alt text](https://github.com/Dr-DeBugg/MyUnityGame/blob/master/unity_game_screenshot.png "Screenshot 1")
+
 ## Sound effect licensing:
 
 "Sound Of The Ocean" by Alexander
